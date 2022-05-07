@@ -35,7 +35,7 @@ MOBILE
 ### Links
 
 - Solution URL: [GITHUB](https://github.com/mastertbal/STATS-PREVIEW-CARD)
-- Live Site URL: [LIVE LINK](https://mastertbal.github.io/PROFILE-CARD-COMPONENT//index.html)
+- Live Site URL: [LIVE LINK](https://mastertbal.github.io/STATS-PREVIEW-CARD//index.html)
 
 ## My process
 
