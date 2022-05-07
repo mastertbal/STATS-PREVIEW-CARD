@@ -24,9 +24,11 @@ Users should be able to:
 
 ### Screenshot
 DESKTOP
+
 ![DESKTOP STATS PREVIEW CARD COMPONENT](https://user-images.githubusercontent.com/28808054/167262677-d312d353-d0ad-414d-b2ca-76789e4b0e05.png)
 
 MOBILE
+
 ![MOBILE STATS PREVIEW CARD COMPONENT](https://user-images.githubusercontent.com/28808054/167262689-cd4fdbf5-7306-4303-9e66-998ca0ad5c9f.png)
 
 ### Links
